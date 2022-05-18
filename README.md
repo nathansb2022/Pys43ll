@@ -7,7 +7,7 @@ A Python Reverse Shell that can be used on Linux and Windows.
 
 # Remember
 
-The use of Windows requires Python3 installed. Remember to add the IP Address and Port of your choosing.
+The use of Windows requires Python3 installed. Remember to add the IP Address and Port of your choosing. On Windows the file can be saved with .pyw to allow a double-click execution.
 
 # How to Use
 
