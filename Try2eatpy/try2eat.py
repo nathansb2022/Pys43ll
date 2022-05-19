@@ -1,6 +1,6 @@
 #Try2eatpy
 #A spin-off from Pys43ll that will display a slice of pie when executed. Try2eatpy interacts with PowerShell. See below.
-#A Python Reverse Shell that can be used in a Windows. This requires Python3 installed.
+#A Python Reverse Shell that can be used in Windows. This requires Python3 to be installed.
 #The file can be saved with .pyw to allow a double-click execution.
 #Remember to add the IP address and Port of your choosing.
 #Example usage: .\try2eat.py
