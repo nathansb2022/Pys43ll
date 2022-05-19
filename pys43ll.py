@@ -2,6 +2,7 @@
 #A Python Reverse Shell that can be used on Linux and Windows. The use of Windows requires Python3 installed.
 #On Windows the file can be saved with .pyw to allow a double-click execution.
 #Remember to add the IP address and Port of your choosing.
+#Example usage: Windows: .\pys43ll.py OR Linux: python3 pys43ll.py
 
 #Import your modules
 import os
