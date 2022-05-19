@@ -1,8 +1,5 @@
 # Pys43ll
 
-
-# Description
-
 A Python Reverse Shell that can be used on Linux and Windows.
 
 # Remember
